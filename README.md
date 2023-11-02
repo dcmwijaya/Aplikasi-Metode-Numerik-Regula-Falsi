@@ -42,7 +42,6 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Regula-Falsi/assets/54527592/b7fc327b-4e3f-4b9f-9935-4508028e05a3" alt="output"></td>
 </tr>
 </table>
-<table>
 
 <br>
 
