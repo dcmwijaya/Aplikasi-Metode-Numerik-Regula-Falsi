@@ -42,11 +42,10 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 <td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Regula-Falsi/assets/54527592/b7fc327b-4e3f-4b9f-9935-4508028e05a3" alt="output"></td>
 </tr>
 </table>
-<table>
 
 <br>
 
-## ## LISENSI 
+## LISENSI 
 LISENSI MIT - Hak Cipta (c) 2020 - Devan Cakra Mudra Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
