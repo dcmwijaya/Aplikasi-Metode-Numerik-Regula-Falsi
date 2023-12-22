@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 
 # Aplikasi-Metode-Numerik-Regula-Falsi
-<strong>Tugas metode numerik</strong><br>
+<strong>Tugas Metode Numerik</strong><br>
 Program Aplikasi Regula Falsi.
 
 <br>
