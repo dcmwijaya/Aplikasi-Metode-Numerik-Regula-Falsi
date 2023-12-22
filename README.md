@@ -4,7 +4,7 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)
 
 # Aplikasi-Metode-Numerik-Regula-Falsi
-<strong>Numerical methods assignment</strong><br>
+<strong>Numerical Methods Assignment</strong><br>
 Regula Falsi Application Program.
 
 <br>
