@@ -9,7 +9,7 @@ Program Aplikasi Regula Falsi.
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Komputasi |
