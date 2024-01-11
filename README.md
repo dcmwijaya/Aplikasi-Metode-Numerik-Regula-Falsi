@@ -9,7 +9,7 @@ Regula Falsi Application Program.
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Computation |
