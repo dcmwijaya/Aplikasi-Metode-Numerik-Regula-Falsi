@@ -46,6 +46,11 @@ https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/De
 
 <br>
 
+## Appreciation
+If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+
+<br>
+
 ## LICENSE
 MIT License - Copyright © 2020 - Devan Cakra Mudra Wijaya
 
