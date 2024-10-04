@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Metode-Numerik-Regula-Falsi)
-![C](https://img.shields.io/badge/programming%20-%2300599C.svg?&logo=cplusplus&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Metode-Numerik-Regula-Falsi?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Aplikasi-Metode-Numerik-Regula-Falsi
 <strong>Numerical Methods Assignment</strong><br>
@@ -44,8 +45,8 @@ https://bit.ly/DEVC_Installer
 <th width="420">Output</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Regula-Falsi/assets/54527592/78f346e5-c3f8-4f9b-9151-7aae56a4cade" alt="input"></td>
-<td><img src="https://github.com/devancakra/Aplikasi-Metode-Numerik-Regula-Falsi/assets/54527592/b7fc327b-4e3f-4b9f-9935-4508028e05a3" alt="output"></td>
+<td><img src="Documentation/Input.jpg" alt="input"></td>
+<td><img src="Documentation/Output.jpg" alt="output"></td>
 </tr>
 </table>
 
@@ -57,7 +58,7 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br>
 
 ## LICENSE
-MIT License - Copyright © 2020 - Devan Cakra Mudra Wijaya
+MIT License - Copyright © 2020 - Devan C. M. Wijaya
 
 Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
 
